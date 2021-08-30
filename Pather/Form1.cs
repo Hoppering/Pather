@@ -22,7 +22,6 @@ namespace Pather
         }
 
         public static string pathFile = "";
-        public static string ipAdress = "";
 
         private void loadData()
         {
